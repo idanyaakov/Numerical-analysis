@@ -1,7 +1,3 @@
-# Aviram ben ishay - 208186171
-# Idan yaakov - 207468554
-# GIT: https://github.com/Aviram96/Numerical-analysis/tree/main
-
 import numpy as np
 
 
